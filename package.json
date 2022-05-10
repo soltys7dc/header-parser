@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"accept-language-parser": "^1.4.1",
-		"express": "^4.14.0",
+		"express": "^4.17.3",
 		"ua-parser-js": "^0.7.17"
 	},
 	"main": "server.js",
